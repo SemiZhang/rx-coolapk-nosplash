@@ -1,4 +1,4 @@
-# rx-coolapk-nosplash
-Disable the splash when CoolApk started.    
+# rx-splashblock
+Disable splash.
 
-导入处方 https://greenify.github.io/WitherZuo/rx-coolapk-nosplash
+导入处方 https://greenify.github.io/SemiZhang/rx-splashblock
